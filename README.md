@@ -1,12 +1,12 @@
 # LAB - 01
 
-## Project Name
+## Node Ecosystem
 
 ### Author: Shubham Majumdar
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-Shubham/Lab01/pull/1)
+* [Fithub Actions](https://github.com/401-advanced-javascript-Shubham/Lab01/actions)
 
 #### Documentation
 * [api docs](http://xyz.com/api-docs) (API servers)
@@ -18,7 +18,7 @@
 * `MONGODB_URI` - URL to the running mongo instance/db
 
 #### How to initialize/run your server app (where applicable)
-* e.g. `npm start`
+* `npm start`
   
 #### Tests
 * How do you run tests?
