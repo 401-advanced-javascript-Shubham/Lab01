@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascript-Shubham/Lab01/pull/1)
-* [Fithub Actions](https://github.com/401-advanced-javascript-Shubham/Lab01/actions)
+* [Github Actions](https://github.com/401-advanced-javascript-Shubham/Lab01/actions)
 
 #### Documentation
 * [api docs](http://xyz.com/api-docs) (API servers)
@@ -25,4 +25,4 @@
 npm test
 
 #### UML
-Link to an image of the UML for your application and response to events
+![UML Diagram](whiteboard.jpg)
